@@ -1,6 +1,6 @@
 name: python-java
 version: 0.0.1
-inherits: wercker/python@0.1.2
+inherits: wercker/python@0.0.12
 type: main
 platform: ubuntu@12.04
 description: Wercker box for Python and Java environment
